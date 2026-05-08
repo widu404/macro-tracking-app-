@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "78f95280-5de3-4b84-9a25-09c7f0e53593"
+      }
+    },
+    "owner": "visitha404"
   }
 }
